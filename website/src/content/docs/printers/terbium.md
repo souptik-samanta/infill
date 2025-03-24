@@ -1,7 +1,7 @@
 ---
 title: "Terbium"
 description: "Can't afford a printer? Terbium, build one. Cheap CoreXY printer!"
-project_name: "WayneTech3D"
+project_name: "Terbium"
 repository: "https://raw.githubusercontent.com/akulsaju/terbium/refs/heads/main/JOURNAL.md"
 ---
 # Terbium - The DIY printer
