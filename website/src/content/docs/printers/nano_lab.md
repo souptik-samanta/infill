@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/Illuminum2/NanoLab/refs/heads/mai
 
 Made by: @Iluminum2  
 Repo link: [https://github.com/Illuminum2/NanoLab](https://github.com/Illuminum2/NanoLab)  
-Total hours so far: 38.5
+Total hours so far: 40
 - [x] I have a 3D printer
 
 ## Idea
@@ -86,3 +86,6 @@ So I was only able to start working on this after 9pm, so I didn't get as much d
 
 ## Day 10 (Mar 23) 5h
 Today I got a lot of work done, mainly in 3D modeling, I also did some more sketches of components I need. Also I had to redesign my tool head yet again, for now I haven't added part cooling, but because I am going for berd air cooling I should be able to simply add that by modifying my toolhead cover. I also noticed that I probably have to file off 0.5-1 mm of a part of the nozzle, because it will be mounted at 45°, and could otherwise interfere with the layers.
+
+## Day 11 (Mar 24) 1.5h
+Had another 10 hour school day, and had to study for a test, so I wasn't able to do too much, but I added a small cover for the hot end, and started working on other parts as well. I also started restructuring my project in Onshape.
