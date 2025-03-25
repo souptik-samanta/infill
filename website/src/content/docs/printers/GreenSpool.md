@@ -8,7 +8,7 @@ Made by: [@dave9123](https://dave9123.pages.dev/)
 
 Repository link: [https://github.com/dave9123/GreenSpool](https://github.com/dave9123/GreenSpool)
 
-Time spent so far: 4 hours
+Time spent so far: 10 hours and 30 minutes
 
 ## BOM
 
@@ -119,6 +119,8 @@ Time spent researching: 2 hours
 Question:
 - Should I actually use PET? It emits fumes that are just harmful.
 
+Time spent researching: 30 minutes
+
 ## Day 4 (March 18th 2025)
 
 Whoa, what a month since I've procrastinated! I've had a couple of exams and today is going to be the last day of PAT (end of year exam) but I'll have some more as I'm 9th grade :heavysob:
@@ -126,6 +128,8 @@ Whoa, what a month since I've procrastinated! I've had a couple of exams and tod
 Back to designing, for the movement, I'm thinking of using linear rails as they are known for their precision. Aluminum extrusions along with a custom-made cartridge would be great though.
 
 > https://www.tokopedia.com/bangunkaryaac/aluminium-profile-20x20-extrusion-panjang-6000-mm
+
+Time spent researching: 1 hour
 
 ## Day 5 (March 24th 2025)
 
@@ -135,6 +139,11 @@ Time spent looking for items: 4 hours
 
 ## Day 6 (March 25th 2025)
 
-I went shopping through Shopee and Tokopedia, again. They aren't really cheap (ignore the double BTT SKR board as it's currently on new user discount)
+I went shopping through Shopee and Tokopedia, again. They aren't really cheap (ignore the double BTT SKR board as it's currently on new user discount). Went from Tokopedia to Shopee and vice versa.
 
 ![[Pasted image 20250325171326.png]]
+
+Not much progress has been done except for parts research
+![[Pasted image 20250325221055.png]]
+
+Time spent shopping and researching: 2 hours
