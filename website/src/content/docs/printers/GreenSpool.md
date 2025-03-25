@@ -10,6 +10,9 @@ Repository link: [https://github.com/dave9123/GreenSpool](https://github.com/dav
 
 Time spent so far: 4 hours
 
+## BOM
+
+[Google Sheets](https://docs.google.com/spreadsheets/d/1aChr8Js_A3QqnoBzMwuVZRyZTCKWHDg3IrmY291spOg/edit?usp=sharing)
 ## Important Notes
 
 - PET should not be reused for food applications after printing, as small imperfections may harbor bacteria.
@@ -124,3 +127,14 @@ Back to designing, for the movement, I'm thinking of using linear rails as they 
 
 > https://www.tokopedia.com/bangunkaryaac/aluminium-profile-20x20-extrusion-panjang-6000-mm
 
+## Day 5 (March 24th 2025)
+
+Heated bed, this looks real cheap [Tokopedia](https://www.tokopedia.com/arttechno/hot-bed-mk2b-heat-bed-heatbed-214x214-12v-24v-heated-3d-printer)!! (MK2B though)
+
+Time spent looking for items: 4 hours
+
+## Day 6 (March 25th 2025)
+
+I went shopping through Shopee and Tokopedia, again. They aren't really cheap (ignore the double BTT SKR board as it's currently on new user discount)
+
+![[Pasted image 20250325171326.png]]
