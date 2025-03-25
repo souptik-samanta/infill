@@ -7,9 +7,9 @@ repository: "https://raw.githubusercontent.com/DinosaurPotato534/questionableAtB
 Made by: @dinosaurpotato (shaan) & @justaglitchfl (aidan) & @castoway (dimitri)
 Repository link: https://github.com/DinosaurPotato534/printer
 Total hours so far:
-Shaan: 20
+Shaan: 23
 Aidan: 16
-Dimitri: 10
+Dimitri: 15
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -84,3 +84,12 @@ Dimitri & Shaan ~4 hours
    	* we need a raspberry pi with klipper for the kinematics of a moving bed
 * began researching on how autobed leveling would work
 
+3/24/2025
+-
+Dimitri ~5 hours
+Shaan ~3 hours
+* began to fully find exact electronics that we would be using
+  	* found a motherboard cabable of having 6 stepper motor drivers
+  	* decided on using a raspberry pi 4 for klipper installation
+* figured out that autobed leveling would work by adjusting each of the z motor until it is flat
+* found some previous examples of how the linear slides for 5 axis function

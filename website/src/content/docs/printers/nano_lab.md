@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/Illuminum2/NanoLab/refs/heads/mai
 
 Made by: @Iluminum2  
 Repo link: [https://github.com/Illuminum2/NanoLab](https://github.com/Illuminum2/NanoLab)  
-Total hours so far: 40
+Total hours so far: 40.5
 - [x] I have a 3D printer
 
 ## Idea
@@ -89,3 +89,6 @@ Today I got a lot of work done, mainly in 3D modeling, I also did some more sket
 
 ## Day 11 (Mar 24) 1.5h
 Had another 10 hour school day, and had to study for a test, so I wasn't able to do too much, but I added a small cover for the hot end, and started working on other parts as well. I also started restructuring my project in Onshape.
+
+## Day 12 (Mar 25) 0.5h
+Today I had another 10 hour school day today, and I also had to study for a test, so I was barely able to make any progress, just did little things here and there and also continued with restructuring all CAD files.
