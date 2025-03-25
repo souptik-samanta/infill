@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/arp2019-Dev/MiniPrintV1/refs/head
 ---
 Made by: @arp // Akhil Pathapati
 Repository link: https://github.com/arp2019-Dev/MiniPrintV1
-Total hours so far: 28
+Total hours so far: 38
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -33,3 +33,6 @@ Currently working on an airplane very bumpy but work must be done. Decided to ad
 
 Update 8:
 Changed again, I am after all going with a 180mm bed since 150 is comically small, also did not use the LDO orbiter extruder and instead found a better one for a lower price. Hopefully, my cad doesn't die when I try to increase the size. I also need to figure out how I want to implement the Y-axis belt system since I want to make it look nice and not bulky with those long tensioners.
+
+Update 9:
+Started working on my PCB for powering the printer, gonna be trying USBC with a 96w Apple adapter. This printer won't have a heatbed but I might just keep the bed there and make it so that if it needs to be heated it needs to have another USB-C adapter connected just for that. Due to this also im final on the 150mm cubed bed size. and not doing dual extruder. For the axis, I moved the stepper into the frame of the printer and will need to figure out how to get the belt attached now. Depending on the price I might add a removable toolhead so I can add other things too.
