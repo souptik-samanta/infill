@@ -14,6 +14,8 @@ Total hours so far: 14
 
 3/23/2025 - Began Research (1 Hour)
 
+I figured out what parts I needed and watched some videos of people building 3D printers.
+
 My requirements:
 
 - [x] Cartesian (since I already have a CoreXY)
@@ -22,15 +24,17 @@ My requirements:
 
 4 Hours Process and Started Modeling The Base
 
+I put together the V-Rails using a model I found online. I wasn't able to find a good one of the brackets used, so I modeled that myself in Fusion.
+
 3/24/2025
 
-2 Hours Worked Through Midnight
+2 Hours Worked Through Midnight - I continued to learn about cartesian printers and worked on adding linear rods.
 
 Later that day...
 
-3 Hours of Modeling After
+3 Hours of Modeling After - I once I tried creating the cart to roll the X, Y, and Z axes, I became confused because I wasn't able to figure out how it worked. It had been a while since I had used a cartesian 3D prinet.
 
-This is WAY too hard. I'm switching by requirement from Cartesian to CoreXY, so I can 'copy' the printer I already have. Wish me luck.
+"This is WAY too hard. I'm switching by requirement from Cartesian to CoreXY, so I can 'copy' the printer I already have. Wish me luck."
 
 Pondered for a while.
 
@@ -43,3 +47,9 @@ NEVER GIVE UP NEVER WHAT-
 -4 hours of modeling later-
 
 "What was I thinking giving up???"
+
+I began modeling the plate mounting Z-axis lift as well as noting the locations for the stepper motors.
+
+-2 more hours later-
+
+I have now completed the frame and modeled the PCB holder, which I'm not sure what material I will make that out of, but it will likely be a 
