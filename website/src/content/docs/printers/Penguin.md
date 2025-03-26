@@ -83,7 +83,10 @@ Here's the full printer rendered  (ooh). ![image](https://github.com/user-attach
 Spent some time looking over the the BOM again. After trying to find cheaper alternatives for every part, I got the total down to around 330 total before tax. At this point, I had submitted for the grant and bought all the parts.
 
 3/19-3/24 - 6hr (42 total)
-Time was scattered throughout this period. By the end I had basically finished redesigning the printer. (Ignore the glaring issues with bed movement, will figure it out next time)
+Time was scattered throughout this period. By the end I had mostly finished redesigning the printer. (Ignore the glaring issues with bed movement, will figure it out next time)
 ![image](https://github.com/user-attachments/assets/6fb435ef-8757-42c5-b93a-a0ea940464a7)
 ![image](https://github.com/user-attachments/assets/5eae9fdd-d082-46ad-8116-a8c66709dbb7)
 
+3/25 - 30m (42.5 total)
+Continued redesign
+![image](https://github.com/user-attachments/assets/90204df8-222e-492f-b25d-ed6ffe871bad)
