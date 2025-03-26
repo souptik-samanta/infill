@@ -8,7 +8,7 @@ Made by: @ishan // Ishan Bhat
 
 Repository link: https://github.com/ibhat2010/ishanb3dp
 
-Total hours so far: 23
+Total hours so far: 27
 
 - [x] I have a 3D printer (Voxelab Aries)
 
@@ -61,3 +61,9 @@ I finalized the plate holder/mount on my design and added the rail which will ca
 Later that day. 5 Hours Of Modeling
 
 I completed modeling the Toolhead in fusion, and I'll be starting my BOM. Afterwards, I will design a PCB, but I'm not sure what for, but likely something to do with the touchscreen. 
+
+Researched Parts For BOM (4 Hours)
+
+PCB PROPOSAL: A temperature sensor under the display and Pi with an LED that changes color based on the internal temps.
+
+I will now be submitting my 3d printer for review.
