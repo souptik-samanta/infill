@@ -52,4 +52,8 @@ I began modeling the plate mounting Z-axis lift as well as noting the locations 
 
 -2 more hours later-
 
-I have now completed the frame and modeled the PCB holder, which I'm not sure what material I will make that out of, but it will likely be a 
+I have now completed the frame and modeled the PCB holder, which I'm not sure what material I will make that out of, but it will likely be a type of sheet metal.
+
+3/25/2025
+
+I finalized the plate holder/mount on my design and added the rail which will carry the extruder and any belts. I've ensured that any motors and electronic components will fit, and I've modeled the Z-axis. I'll be 
