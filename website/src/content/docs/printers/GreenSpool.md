@@ -139,11 +139,8 @@ Time spent looking for items: 4 hours
 
 ## Day 6 (March 25th 2025)
 
-I went shopping through Shopee and Tokopedia, again. They aren't really cheap (ignore the double BTT SKR board as it's currently on new user discount). Went from Tokopedia to Shopee and vice versa.
+I went shopping through Shopee and Tokopedia, again. They aren't really cheap (ignore the double BTT SKR board as it's currently on new user discount). Went from Tokopedia to Shopee and vice versa. Not much progress has been done except for parts research.
 
-![[Pasted image 20250325171326.png]]
-
-Not much progress has been done except for parts research
-![[Pasted image 20250325221055.png]]
+![BOM Progress](https://dave9123.me/assets/firefox_xXxE5roiGn.png)
 
 Time spent shopping and researching: 2 hours
