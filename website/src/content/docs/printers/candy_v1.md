@@ -9,24 +9,37 @@ Made by: @outdatedcandy92
 
 Repository: [https://github.com/Outdatedcandy92/CandyV1](https://github.com/Outdatedcandy92/CandyV1)
 
-### Total Hours: 28
+### Total Hours: 40
 
 - ✅I have a 3D printer or will be getting one before March 21st
 
 ---
 
-## Overview:
 
+Things To Do:
 
-Desired Specs-
+- [ ] Order Parts
+- [ ] Mechanical Filament runout sensor
+- [ ] Part Cooler Design
+- [ ] X-axis motor mount
+- [ ] PTEF Tube
+- [ ] Build Failure (opencv?)
+- [ ] Y-axis tensioner 
+- [ ] PCB (Oled display and Buttons)
+- [ ] Software UI
+- [ ] Nozzle Cleaner
+- [ ] AMS (BY28J-48 motors)
+ 
 
-- 300x300x250 build volume
-- Uses Klipper
-- 0.1mm resolution
-- multi-color (maybe)
-- raspi 4 controller
-- timelapse feature
-- tangle detection
+# Desired Specifications
+- >= 250mm^3 Build Volume
+- Raspberry Pi 4 Host
+- Running OctoPrint+Klipper
+- Timelapse Feature
+- Tangle Detection
+- Build Failure Detection
+- 2 Color AMS System
+- Up to 0.1mm Resolution
 
  
 
@@ -143,3 +156,29 @@ Here are some screenshots of todays work-
 ![Image](https://github.com/user-attachments/assets/128f7f1c-c26c-4855-b977-7521660d3b1e)
 
 ### Time Spent: 3 Hours
+
+## Day 11 (March 15-25th)
+Had a really busy week so I didn't get a lot of time to work on my logs. Over the past 2 weeks I've worked upon improving and finalizing my design.
+Changes I've made-
+- Switched out the z axis linear rails to 8mm Smooth rods with LM8UU bearings
+- Now added MGN12H rail for the x-axis instead of MGN9H
+- Changed the x-axis rail mounting. It is now mounted on top of the aluminium extrusion instead of on its side.
+- Added mounts for my y-axis motor and idler
+- Made custom pillow blocks for Z-axis Lead Screws and Smooth Rods using 608ZZ bearings
+- Designed the toolhead mount for X axis
+- Placed X-axis motor and idler (still need to create mounts)
+- Worked on BOM
+	- Switched from SKR V3 TO V2 (Budget Constraints)
+	- Instead of using 4 Nema 17HS4401S I'm now using 3 of those and 1 Nema 17 20mm for my Direct Drive Extruder.
+	- Switched to LM8UU from LM8UUU (Size Constraint)
+	- Refined my BOM overall. Tried to find lower prices
+
+#### The Plan:
+I'm planning on buying the parts soon, and then continue on improving the design till the parts arrive. Right now I have an Idea of using some BY28J-48 Stepper Motors for creating and AMS type system, According to my research if I convert it into a bipolar it would be able to produce enough torque to push and pull the filament. Speaking of filament, I'm planning on adding a mechanical filament runout sensor using one of the micro switches I'm buying for the endstops.
+
+
+3D Model-
+![Image](https://github.com/user-attachments/assets/5ad5988c-e98f-4c5f-a250-8dab14d97939)
+
+
+
