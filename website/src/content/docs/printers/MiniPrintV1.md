@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/arp2019-Dev/MiniPrintV1/refs/head
 ---
 Made by: @arp // Akhil Pathapati
 Repository link: https://github.com/arp2019-Dev/MiniPrintV1
-Total hours so far: 38
+Total hours so far: 43
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -36,3 +36,6 @@ Changed again, I am after all going with a 180mm bed since 150 is comically smal
 
 Update 9:
 Started working on my PCB for powering the printer, gonna be trying USBC with a 96w Apple adapter. This printer won't have a heatbed but I might just keep the bed there and make it so that if it needs to be heated it needs to have another USB-C adapter connected just for that. Due to this also im final on the 150mm cubed bed size. and not doing dual extruder. For the axis, I moved the stepper into the frame of the printer and will need to figure out how to get the belt attached now. Depending on the price I might add a removable toolhead so I can add other things too.
+
+Update 10:
+The printer is almost complete and actually finalized this time lol. I am not doing usbc and instead doing a removable tool head with a laser attachment and regular fdm attachment. I am going to submit for the grant now so I can hopefully get parts ordered before the aliexpress deal ends. My bom is finished and my cad is almost done. its just the cosmetics left.
