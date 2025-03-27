@@ -8,7 +8,7 @@ Made by: [@dave9123](https://dave9123.pages.dev/)
 
 Repository link: [https://github.com/dave9123/GreenSpool](https://github.com/dave9123/GreenSpool)
 
-Time spent so far: 10 hours and 30 minutes
+Time spent so far: 14 hours and 30 minutes
 
 ## BOM
 
@@ -144,3 +144,27 @@ I went shopping through Shopee and Tokopedia, again. They aren't really cheap (i
 ![BOM Progress](https://dave9123.me/assets/firefox_xXxE5roiGn.png)
 
 Time spent shopping and researching: 2 hours
+
+## Day 7 (March 27th 2025)
+
+Linear screw actuator rails are expensive (around $77.53 locally sourced)—yes, metals are expensive to source—and AliExpress doesn't ship to my country because of government policies so best idea would be to DIY.
+
+Thanks to [*Rudy*](https://hackclub.slack.com/team/U079HV9PTC7) on [Hack Club Slack](https://hackclub.com/slack) for making me realize that it's taking up most of my budget.
+![A screenshot of Rudy suggesting me on how I can use a screw railing](https://dave9123.me/assets/slack_HImmLdd5q1.png)
+*don't mind the Obsidian app title, it pops up for some reason*
+
+![Example placement for the rails](https://dave9123.me/assets/rails-placement.png)
+![Wobble and move if the rods aren't locked in place](https://dave9123.me/assets/wobbly.png)
+Source: [*Rudy*](https://hackclub.slack.com/team/U079HV9PTC7) on [Hack Club Slack](https://hackclub.com/slack)
+
+A snippet of my BOM (currency conversion as of 27 March 2025 10:27 PM WIB) which shows that it's taking more than half of the $300 budget.
+
+| Name                       | Description                                                       | Quantity | Price/Quantity | Total Price | Price/Quantity in USD | Total Price in USD | Budget Usage |
+|:-------------------------: | :---------------------------------------------------------------: | :------: | :------------: | :---------- | :-------------------: | :----------------: | :----------: |
+| Linear Screw Actuator Rail | Machifit Linear Screw Actuator Rail with Stepper 300mm for Z-axis | 2        | Rp1,267,980    | Rp2,535,960 | $77.53                | $155.05            | 51.68%       |
+
+I also went some parts shopping again today and found some useful links which might be useful: 
+- https://ratrig.dozuki.com/Guide/05.+Linear+rails/73
+and added a power socket, 10 pieces of fuse (Rp 275 each on Tokopedia and 19k on Shopee each with 10 minimum purchases—hella insane!), and 3 micro limit switches (for the X, Y, Z rails to hit so it stops perfectly without breaking the structure).
+
+Time spent: 4 hours
