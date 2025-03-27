@@ -19,7 +19,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 # Total Time
 
 Aaron: 59h
-Evan: 15h
+Evan: 22.5h
 
 # Feb 12 2025
 
@@ -327,9 +327,27 @@ Cadding
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2ecf0c055b351388e8a5fd1cf67841e1918324b0_image.png)
 
 # March 23
-Evan: 1h
+Evan: 2h
 
 ## Evan
 Did some research into the USB PD 3.0 spec (specifically PPS). Currently, there doesn't seem to be a (cheap) sink ic that supports PPS and a **configurable** i2c address.
 I basically want the [AP33772S](https://www.diodes.com/datasheet/download/AP33772S.pdf) but with a address configuration function (it has a static address of 0x52)
+
+Also watched [Phil's Lab #104](https://www.youtube.com/watch?v=W13HNsoHj7A) and [#114](https://www.youtube.com/watch?v=kUruN6WBgSw)
+
+# March 26
+Evan: 6.5h
+
+## Evan
+I spent most of my time trying to figure out how to design the schematic. A major blocker I'm stuck at right now is *how* to power the rp2040. Because I want the power banks to be hot-swappable, I need to power the rp2040 off any one of the USB-C ports, and I don't want to add a buck converter for each port... Things can get expensive *quickly*.
+
+*This is likely a fire hazard :trollface:*
+
+Current progress:
+![image](https://github.com/user-attachments/assets/796e684e-09f3-46bf-81a6-0f619603a5c8)
+![image](https://github.com/user-attachments/assets/73953d6d-58ae-4eef-b516-209afc0b4c3b)
+
+The PSU is being developed in [Badbird5907/PDSU](http://github.com/badbird5907/PDSU)
+
+I'm probably going to just buck the voltage for each USB port with 4x TPS54331 and use diode OR-ing if I don't have any better ideas tmr morning.
 
