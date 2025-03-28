@@ -318,9 +318,9 @@ I'm hoping to be able to start building everything tomorrow morning!
 
 # Day 24, 25 (March 21st-22nd)
 
-Hours worked: **9**
+Hours worked: **6**
 
-Total hours on project: **68**
+Total hours on project: **65**
 
 ### Making adjustments
 
@@ -339,3 +339,21 @@ The old design was not fitting well due to a screw on the heatblock I did not ac
 Firstly, I just want to give an update on why there was a two week break. I was on vacation and could not work on the project. Secondly, I plan on adding the PicoMMU integration (really just a filament cutter and mount for the 4-1 bowden hub) once I have the printer up and running. I still have to add back all the fasteners. Its a PITA to do and I plan on doing it all in one go once the design in finalized.
 
 ![Day 25 Image Update](https://hc-cdn.hel1.your-objectstorage.com/s/v3/89557edd0f18aa606cf607bd14bfc1c7f5bee0d9_image.png)
+
+# Day 26, 27, 28 (March 24th-27th)
+
+Hours worked: **5**
+
+Total hours on project: **70**
+
+### X-axis Issues
+
+After assembling the X-axis, I noticed that it could twist, which is obviously not ideal. Despite strengthening the area and tightening the rod fitment, the problem persisted. It wasn’t until I discovered that the rods were not fully inserted that I was able to resolve the issue.
+
+### Final Assembly
+
+I made a few minor modifications to some components, and the axis is finally complete! Below is an overview of the physical build:
+
+![XZ axis build](https://hc-cdn.hel1.your-objectstorage.com/s/v3/751e29dc78f52e23004a32d79c54d842c86258a7_image.png)
+
+![Day 28 Image Update](https://hc-cdn.hel1.your-objectstorage.com/s/v3/95c0c695b42b6be12d08f6b1e6132b397bd61f7f_image.png)
