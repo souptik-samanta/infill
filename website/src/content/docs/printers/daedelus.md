@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/meowkewok/Daedelus/refs/heads/mai
 
 Made by: @Meowkewok  
 Repository link: https://github.com/meowkewok/Daedelus  
-Total hours so far: 23.25   
+Total hours so far: 25.5   
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -40,7 +40,8 @@ I just decided to make a spreadsheet using Google Sheets, it was easier. LINK: h
 |3/16/2025|CAD, BOM|3 Hours|Finished XY axis|
 |3/17/2025|BOM, CAD|2.5 Hours|Started toolhead mount|
 |3/25/2025|CAD|1 Hour|almost done!|
-|3/26/2025|CAD|15 mins||
+|3/26/2025|CAD|30 mins||
+|3/27/2025|CAD, Logo|2 Hours|Yay logo, also almost done again!|
 
 ## Detailed Log
 3/6/2025  
@@ -64,7 +65,11 @@ Started work on the CAD for it, looking real good so far, maybe even better than
 3/16/2025  
 Kept working, here is progress so far:  
 ![XYZ Axis v2](https://github.com/user-attachments/assets/2d936903-57cd-419b-9d47-a01d6e89f8ad)  
-Continued working on the BOM, and already it is sooo much cheaper!
+Continued working on the BOM, and already it is sooo much cheaper!  
+
+3/27/2025  
+Did more CAD and made a logo. ![image](https://github.com/user-attachments/assets/02262cd7-f29a-4057-8ae8-dca04caa174f)
+
 
 ## OLD DESIGN INFO (Icharus)
 
