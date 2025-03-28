@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/Illuminum2/NanoLab/refs/heads/mai
 
 Made by: @Iluminum2  
 Repo link: [https://github.com/Illuminum2/NanoLab](https://github.com/Illuminum2/NanoLab)  
-Total hours so far: 47
+Total hours so far: 48
 - [x] I have a 3D printer
 
 ## Idea
@@ -97,4 +97,7 @@ Today I had another 10 hour school day today, and I also had to study for a test
 Made decent progress, restructuring the project took quite a bit longer than I expected, and I also finally got the planar mate on the linear rails to work. Somehow did even more sketches, and decided that I am going to mount my MGN12H linear rail on a Makerbeam XL 15x15 using T slot nuts, so any twist in the linear rail caused by the manufacturing process does not affect the print quality(hopefully). It should also simplify the mounting to the Y axis. The only downside is that it is going to be slightly thicker.
 
 ## Day 14 (Mar 27) 3.5h
-Got quite a bit of stuff done, finally pretty much finished the X axis(except for the belt clamps). Also watched a few videos about the Voron 2.4s belt routing, ideally I should be able to finish the Y axis tomorrow
+Got quite a bit of stuff done, finally pretty much finished the X axis(except for the belt clamps). Also watched a few videos about the Voron 2.4s belt routing, ideally I should be able to finish the Y axis tomorrow.
+
+## Day 15 (Mar 28) 1h
+Another 10 hour friday, I couldn't get alot of stuff done, but I realized that I can't use the motors that I wanted to use, so I looked around and did more research, so I can finally get the belts on the Y and X axis done.
