@@ -4,6 +4,9 @@ description: "Production-ready 3d printer based on a Ender 5 frame, with multifu
 project_name: "Meteroid"
 repository: "https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Changelog.md"
 ---
+---
+modified: 2025-03-28T14:34:44-06:00
+---
 Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
@@ -49,7 +52,7 @@ I added all my base and accent colors to this now, spicing it up. Stationary par
 
 ![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-27%2018-44-10.png)
 
-![Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/6000dfeccf72bd922665b3dd/e/abe2e35d4e7a15af75f9cffc)
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/6000dfeccf72bd922665b3dd/e/abe2e35d4e7a15af75f9cffc)
 
 Time: 4 hrs
 
@@ -83,7 +86,8 @@ I have attached all the parts and knobs and stuff, and added some motion capabil
 ![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-23%2020-28-30.png)
 
 I also add fun bite marks to some the pieces, in imitation of a meteor.
-![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-23%20-50-29.png)
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-23%2020-50-29.png)
 
 [Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/680a472921ba0d3f7ccb1c2f/e/5ef495c38173f41e0befecf5)
 

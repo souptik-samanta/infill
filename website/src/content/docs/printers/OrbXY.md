@@ -8,7 +8,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 26 hours
+Total hours so far: 33 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -123,7 +123,7 @@ Total hours so far: 26 hours
 
 - I then added the linear rails to my full assembly and realised that it would be better to go with MGN9 rails and MGN9-H carriages so I added them instead. This meant I had to change the connection on the toolhead to fit on the MGN9-H carriage.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/43610adf80ba3613922e961b7cd26198cf9fb8a8_12_03_2025.png" width="350" title="CAD Full Assembly">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/51109f9640d0fe87d811ad7456b9a344eef2bf0c_cad-12_03_2025-3.png" width="350" title="X-to-Y-Axis-Connector">
 
 - I also had to model some connectors to connect the X-Axis linear rail to the Y-Axis rails so that they could move together. Here is what they look like.
 
@@ -159,5 +159,57 @@ Total hours so far: 26 hours
 ### Time Spent on This Day: 2 hours
 
 `Research: 1 hour` `CAD: 1 hour`
+
+<br><br>
+## Day 7: March 24th 2025
+
+`Research` `CAD`
+
+- I researched how to add the pulleys and belts to my system and espeecially how to connect them on the toolhead end.
+
+- I realised that it might be better to have the X-Axis linear rail with the carraige facing forwards rather than upwards. This would mean that I had to redesign my X-to-Y-Connectors for the linear rails.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/11efa2a92b8e49b748136a5ff9ff91bc23786be4_cad-24_03_2025-2.png" width="350" title="X-to-Y-Axis-Connector">
+
+- It was difficult to design these without heavily limiting the range of motion of the carraige in the X-Axis so I had _many_ iterations. Here is what the final design looks like. It screws onto the Y-Axis linear rail and the X-Axis rail slots into it and is secured with a srew.
+
+`Research: +30 mins` `CAD: +2 hours`
+
+***+2 hours 30 mins***
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e5ef28c2c8ca7f5ad5db72103febbf9c92eef490_cad-24_03_2025-3.png" width="350" title="Toolhead Connector">
+
+- I then also had to edit the toolhead so that it would work with this new sideways rail system. Heres what it turned out like.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/52810cce442d4b0d345ad1289d15d4bf2d8f11a7_cad-24_03_2025-1.png" width="350" title="CAD Full Assembly">
+
+- This is what it would look like in the full assembly. I haven't adjusted any dimensions of anything else so it doesn't fit together properly yet.
+
+`CAD: +1 hour 30 mins`
+
+***+1 hour 30 mins***
+
+### Time Spent on This Day: 4 hours
+
+`Research: 30 mins` `CAD: 3 hours 30 mins`
+
+<br><br>
+## Day 8: March 28th 2025
+
+`CAD`
+
+- I realised that for the X-to-Y-Connector I need a different slot for the left side and the right side so that the linear rail can go all the way through.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/68d19eb82efc58f8027851061e54538a097a5ad7_cad-28_03_2025.png" width="350" title="CAD Full Assembly">
+
+- I then had to adjust the dimensions of the aluminium extrusions in order to fit the new connectors and adjust the positions of all the other components for the full assembly. Here is what it looks like.
+
+`CAD: +3 hours`
+
+***+3 hours***
+
+### Time Spent on This Day: 3 hours
+
+`CAD: 3 hours`
 
 <br><br>
