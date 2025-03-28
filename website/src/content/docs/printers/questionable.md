@@ -7,9 +7,8 @@ repository: "https://raw.githubusercontent.com/DinosaurPotato534/questionableAtB
 Made by: @dinosaurpotato (shaan) & @justaglitchfl (aidan) & @castoway (dimitri)
 Repository link: https://github.com/DinosaurPotato534/printer
 Total hours so far:
-Shaan: 27
-Aidan: 16
-Dimitri: 19
+Shaan: 30
+Dimitri: 22
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -99,4 +98,11 @@ Shaan ~3 hours
 Dimitri and Shaan ~4 hours
 * Dimitri created the CAD file and started to import all necesasary parts for the design
 * Shaan researched necessary electronics and created a bill of materials
+
+3/27/2025
+-
+Dimitri and Shaan ~3 hours
+* Dimitri set up basic framing for CAD
+* Shaan researched custom slicers for a 5 axis tilting bed printer
+* Aidan left the project due to being too busy
 
