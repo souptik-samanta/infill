@@ -9,7 +9,7 @@ Made by: Atharv Sharma aka scattercat_123 | Slack id = [scattercat_123](https://
 
 Repository link: [Click mE!](https://github.com/scattercat-123/Printopus)
 
-Total hours so far: 34 hours!!
+Total hours so far: calculating!!
 
 BTW I have an Ender 3 V3 KE <i>really fast</i>
 
@@ -102,8 +102,8 @@ I made this till now NOT DONE!
 
 I will soon upload the newer cad file!
 
-## Day 21 (14th March 2025)
-## Total time 3 hours 45 mins(i grinded)
+## Day 21-34 (14th March to 27th March 2025)
+## Total time 28 hours 45 mins(i grinded)
 
 Yo guys, wassup Ik i haven't updated for a long time since my parents only gave me 45 minutes to work on this cause I have exams, and I am trying to finish everything before my main exams come!!!
 
@@ -118,8 +118,38 @@ Here is a photo of what I finished
 And also i have almost finished my shitty BOM here is a sneak peek:
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f460a81e4a50cfa1f8710232cfcd2f73e88b81fe_image.png"
 
+
 I don't know but my fusion is definitely not organized, bruh :(
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa41cdcb34d599a9370dfc7fa50c0a3f784af138_image.png">
 
 Thanks, ppl more updates soon!
 Sneak peak: working on a good PCB
+
+## Day 35 (28th March 2025)
+## Total time 4 Hours
+
+Hi guys,
+I know i havent updated this for a while but I am:(drumroll)
+
+99% DONE WITH MY CAD FILES
+I have started with my pcb for the neopixels and the bom please dont talk about it
+I Need too finishs the bom when i am done (it will be a pain)
+
+Now for the pcb i am using klipper with Skr mini e3 v3 and neopixels
+I found this helpfull link which i might chekc out later on : https://www.reddit.com/r/klippers/comments/rdbmp2/klipper_neopixels_on_skr_e3_mini_v2_working_how/
+
+I wanted to change colors like for heating: orange
+for error:red
+for printing:bluish pink
+and for leevling or any equipment test :green
+
+I might add more later on like for moonraker timelapse each time it takes a photo the blush pink changes to white for a clear photo.
+
+Here is my almost finished printer cad( i have to do the electronics storing base ):
+
+<img src = "https://hc-cdn.hel1.your-objectstorage.com/s/v3/a30304e386ae6883a8906d1a740caca2b589781e_image.png">
+<img src = "https://hc-cdn.hel1.your-objectstorage.com/s/v3/cc4a02ddc4f37cee0ec6ee9cad8cab46ad3b04b6_image.png">
+
+I know it looks a bit ugly but after building its going to be 🔥
+
+Thats all for today maybe tommorow and later on i will give more updates and phoos aobut the pcb since my exams
