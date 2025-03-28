@@ -132,3 +132,9 @@ Time += 3 hours
 ![image](https://github.com/user-attachments/assets/d6853de1-b346-454b-8827-a0e29ee071d4)
 ![image](https://github.com/user-attachments/assets/07d0ae4f-965f-4a02-9251-6104e272d07d)
 
+## Start work on the z axis
+
+Sorry for the delayed update, I forgot to post a log here :sob:
+Heres the design so far, im hoping just friction will be enough to hold the linear bearing in place but we will have to see
+Time += 5 hours
+![image](https://github.com/user-attachments/assets/1e8c6c93-41d5-4e68-ba77-9221426b1749)
