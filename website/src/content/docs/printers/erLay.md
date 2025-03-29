@@ -18,7 +18,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 
 # Total Time
 
-Aaron: 59h
+Aaron: 64.5h
 Evan: 22.5h
 
 # Feb 12 2025
@@ -335,6 +335,14 @@ I basically want the [AP33772S](https://www.diodes.com/datasheet/download/AP3377
 
 Also watched [Phil's Lab #104](https://www.youtube.com/watch?v=W13HNsoHj7A) and [#114](https://www.youtube.com/watch?v=kUruN6WBgSw)
 
+# March 24
+Aaron: 2.5h
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a871d017b01af523516121f1572278c6bb2117e_image.png)
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bfbba6814d80e5459c0b27108d4db9ab9f8c9274_image.png)
+
+Made a master sketch for the bed and the actual bed mount.
+Made of 0.75in square extrustion
+
 # March 26
 Evan: 6.5h
 
@@ -351,3 +359,8 @@ The PSU is being developed in [Badbird5907/PDSU](http://github.com/badbird5907/P
 
 I'm probably going to just buck the voltage for each USB port with 4x TPS54331 and use diode OR-ing if I don't have any better ideas tmr morning.
 
+# March 29
+Aaron: 3h
+
+Added Z-Axis Motor. Way too painful
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ce4d11413c8954bd62e26e882ce9796a30e27996_image.png)
