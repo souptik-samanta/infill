@@ -90,3 +90,9 @@ Time was scattered throughout this period. By the end I had mostly finished rede
 3/25 - 30m (42.5 total)
 Continued redesign
 ![image](https://github.com/user-attachments/assets/90204df8-222e-492f-b25d-ed6ffe871bad)
+
+3/26-3/28 - 2hr (44.5 total)
+Fleshed out redesign and made some really cool renders. Check out renders tab! 
+![image](https://github.com/user-attachments/assets/432cb989-e714-43c5-a17b-25090acd974c)
+
+
