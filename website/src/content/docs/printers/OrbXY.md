@@ -8,7 +8,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 37 hours
+Total hours so far: 40 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -240,5 +240,28 @@ Total hours so far: 37 hours
 ### Time Spent on This Day: 4 hours
 
 `Research: 1 hour` `CAD: 3 hours`
+
+<br><br>
+## Day 10: March 30th 2025
+
+`Research` `CAD`
+
+- I did some research on all the parts of the printbed. I had already chosen the heatbed and to have a magnetic PEI Plate. I decided on putting a _3mm Silicon Sheet_ under the heatbed as an insulator to separate the heat from the 3D printed base. I am using a _NEMA 17 Stepper Motor with Intergrated Lead Screw_ as well as 2 _8mm Linear Rods_ for support to control the Z-Axis movement of the bed.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8b38c885590d2b2cdd9524b728067e9fea35e7c6_screenshot_2025-03-30_at_8.25.14___am.png" height="350" title="Bed Assembly"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d149d67eeb63d2dec582fb240623126c19d967fb_screenshot_2025-03-30_at_8.17.23___am.png" height="350" title="Bed Assembly"> 
+
+- I designed the printbed around these things and here's what the finished bed assembly looks like by itself and with the motor, lead screw, and rods.
+
+`Research: +1 hour` `CAD: +2 hours`
+
+***+3 hours***
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b4e8aeaadd28e52da6dc9d6e7f20ede3f5c5c6a0_screenshot_2025-03-30_at_8.17.38___am.png" width="350" title="CAD Full Assembly">
+
+- Here is what the full assembly looks like so far. I think all I have left to do is to finish it is the X and Y Axis pulley and belt system and to add the endstops that I made at the start. Although I'll probably think of something else left to do later :pensive:.
+
+### Time Spent on This Day: 3 hours
+
+`Research: 1 hour` `CAD: 2 hours`
 
 <br><br>
