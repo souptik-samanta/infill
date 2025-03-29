@@ -8,7 +8,7 @@ Made by: [@dave9123](https://dave9123.pages.dev/)
 
 Repository link: [https://github.com/dave9123/GreenSpool](https://github.com/dave9123/GreenSpool)
 
-Time spent so far: 14 hours and 30 minutes
+Time spent so far: 19 hours and 30 minutes
 
 ## BOM
 
@@ -183,3 +183,5 @@ Recap:
 - Want better speed? Spend more money! (this is pretty much it 😏)
 - Use stepper motors that withstand 24V, not 12V but I can't pretty much find one cheap enough (again, money problems) ![Screenshot of the message on the thread](https://dave9123.me/assets/slack_3hCOKxRKWD.png)
 - Spend more on stepper motors (they're an "investment")![Another screenshot on that same Slack thread about recommending me to get more expensive motors](https://dave9123.me/assets/slack_sPQ925f1mR.png) or not, my life's a joke ![another screenshot explaining that even people run 48V on them, wow](https://dave9123.me/assets/slack_BG14zovtjS.png)
+
+Time spent: ~ 5 hours
