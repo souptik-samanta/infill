@@ -8,7 +8,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 33 hours
+Total hours so far: 37 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -211,5 +211,34 @@ Total hours so far: 33 hours
 ### Time Spent on This Day: 3 hours
 
 `CAD: 3 hours`
+
+<br><br>
+## Day 9: March 29th 2025
+
+`Research` `CAD`
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/9011823ff78c4887518b9eb9f848fa9358ec89ae_cad-29_03_2025-1.png" height="350" title="Pulley Mounts"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b1555ecad8dd5a2a9cebb3c619ec1adf44cab884_screenshot_2025-03-30_at_8.43.22___am.png" height="350" title="Belt Slots">
+
+- I added mounts at the corresponding heights to the X-to-Y-Connectors for the pulleys to sit for the belts. Here's what it originally looked like. I also added slots on the back of the Toolhead for the belts to feed through and here's what that looked like.
+
+- I didn't like how bulky the X-to-Y-Connectors turned out so I did some research on how other people cut down on the size while still maintaining the function.
+
+`CAD: +1 hour` `Research: +1 hour`
+
+***+2 hours***
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/bab32b5d4c838096a24495bd749fd8a5e48fa9a8_cad-29_03_2025-2.png" width="350" title="CAD Full Assembly">
+
+- I came up with this design to cut down on the size while still maintaining the same function as the other design. Here's what it looks like in the full assembly.
+
+`CAD: +2 hours`
+
+- I still need to add a mount the the _NEMA 14 Stepper Motors_ so that they are in the correct spots as well as adding pulleys on the front side of the printer for the belt. I think I will come back to this later.
+
+***+2 hours***
+
+### Time Spent on This Day: 4 hours
+
+`Research: 1 hour` `CAD: 3 hours`
 
 <br><br>
