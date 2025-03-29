@@ -168,3 +168,18 @@ I also went some parts shopping again today and found some useful links which mi
 and added a power socket, 10 pieces of fuse (Rp 275 each on Tokopedia and 19k on Shopee each with 10 minimum purchases—hella insane!), and 3 micro limit switches (for the X, Y, Z rails to hit so it stops perfectly without breaking the structure).
 
 Time spent: 4 hours
+
+## Day 8 (March 28th 2025)
+
+Did a couple of rough designs on Canva (don't get me started with Figma, my projects don't even show up on the mobile app for some reason 😭🙏), kinda had a couple of unsure components like the *stepper motor* and the additional board (for Klipper Ig, maybe I just want it for taking a video of it printing).
+
+![Rough design on Canva](https://dave9123.me/assets/Canva_kM6LmCioS7.png)
+
+And had some late night help from [Ancietus](https://hackclub.slack.com/team/U07GPJ6V3UZ), really appreciate it 🙏 I totally did not jump onto someone's thread and ended up getting help on it 😜
+
+![464 replies on a thread, lol](https://dave9123.me/assets/slack_NUCzDFOy5h.png)
+
+Recap:
+- Want better speed? Spend more money! (this is pretty much it 😏)
+- Use stepper motors that withstand 24V, not 12V but I can't pretty much find one cheap enough (again, money problems) ![Screenshot of the message on the thread](https://dave9123.me/assets/slack_3hCOKxRKWD.png)
+- Spend more on stepper motors (they're an "investment")![Another screenshot on that same Slack thread about recommending me to get more expensive motors](https://dave9123.me/assets/slack_sPQ925f1mR.png) or not, my life's a joke ![another screenshot explaining that even people run 48V on them, wow](https://dave9123.me/assets/slack_BG14zovtjS.png)
