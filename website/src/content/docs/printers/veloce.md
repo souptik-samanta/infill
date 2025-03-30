@@ -67,3 +67,64 @@ so changed BOM and re finalized it. Still gonna keep double z as i want to achie
 Time: 4 hrs
 
 ***Total Time: 28 hrs***
+
+# **Day 6**
+
+Alright, now im modelling.
+
+Started by importing the rails, and building a mount around them. This somehow took much more time than it should have.
+Imported the hotend and extruder. Played around with their positioning and then realised that the extruder was wayyyyyyyyyyyy too huge, so either buy to direct drive or gonna be using a different one.
+Soooo i decided to use a sherpa micro.
+
+https://www.youtube.com/watch?v=Q-7pia9jpuo&t=510s&ab_channel=Kapman%27sBasementWorkshop
+
+found this neat video, and am just gonna get a pancake stepper from ebay and a set of bmg internals, and make one.
+So i changed the extruder and figured out its positioning. I designed basic structures to hold them and placed the heeatbreak cooling fan. 
+Also created a scuffed angular structure to hold the cooling fans.
+
+PS: Using GrabCAD a lot and printables etc to get models of these parts.
+
+Time: 8 hrs
+
+***Total Time: 36 hrs***
+
+# **Day 7**
+
+Alright, so i made a proper housing and screw structure for the cooling fans.
+Also added the fasteners to the project.
+SOOOOOOOOOOO, it turns out im stupid.
+I spent a huge amt of time making an angular structure mount for the radial fans, so that they blow air somewhat sideways, but that doesnt really matter.
+It seems that it doesnt have any advantages and its creating tooo many issues.
+
+So i redesigned part of it, and replaced everything.
+
+Now i had to build vents to direct airflow.
+
+I did some searching and found this video.
+https://www.youtube.com/watch?v=1Vs4bE6sE1g&t=1255s&ab_channel=LearnEverythingAboutDesign
+
+it pretty much tells you whatever you should know and partly guids you.
+So i spent lik an hour building this.
+Now, i wanted to do CFD tests.
+
+I tried searching, but couldn't find anything. Lik 30mins of searching later,
+found this vid
+https://www.youtube.com/watch?v=1pMJQetyA4A&t=263s&ab_channel=NeedItMakeIt
+
+This once again teaches you how to do sims. I did the test, and apparently my ducts were wayy too squared
+The air was not flowing smoothly and had wayy too high pressure.
+
+So i made the vents curved and redid the tests. Now, there wasn't enough air at the back.
+So i remade them, and did another simulation, and finally got good results. 
+
+![Screenshot 2025-03-30 162221](https://github.com/user-attachments/assets/b1fbe5a1-ec1f-4fdc-81d1-79dbfc940825)
+
+![Screenshot 2025-03-30 162643](https://github.com/user-attachments/assets/d444339b-d78e-46e8-85bf-ba6cfc1190b5)
+
+![Screenshot 2025-03-30 162719](https://github.com/user-attachments/assets/70e6367a-38b5-4e9a-9cd1-b957ba451a9c)
+
+Time: 10hrs
+
+***Total Time: 46hrs***
+
+
