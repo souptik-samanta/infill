@@ -10,7 +10,10 @@ Repo: https://github.com/RR-CREATOR/Veloce
 
 PS: its still pretty empty, gonna be adding stuf soon
 
-# **Day 1**
+## Printer
+Imma be building a core xy supr fast and high quality printr.
+
+## **Day 1**
 
 Research on feasibility, ideas, premade projects, and deciding goals, along with basic planning
 
@@ -25,7 +28,7 @@ Read up, watched many videos on how i could start with the design and building
 
 Time: 4 hrs
 
-# **Day 2**
+## **Day 2**
 
 Figured out the basic design pattern i would follow, the various items i would need
 Did some feasibility research and figured out if my ideas would work
@@ -40,7 +43,7 @@ Decided on a frame and structure, gonna figure out the tech parts of the BOM soo
 
 Time: 8 hrs
 
-# **Day 3**
+## **Day 3**
 
 Worked further on my BOM
 
@@ -52,14 +55,14 @@ Gonna be using a boden setup, as dont really need to print flexible mats.
 
 Time: 5 hrs (lik srsly, it took sooo long to find any good items)
 
-# **Day 4**
+## **Day 4**
 
 Finished my BOM, decided on all the parts I would need, and made some changes to previously selected parts so I can get about 500m/s print speed.
 Also made some basic design plans. Goona start cadding soon. This took way too much time.
 
 Time: 7 hrs
 
-# **Day 5**
+## **Day 5**
 
 Decided to use an aluminium frame to get faster speeds, also 300x300 bed could cause wayyy to many issues on first time build, and cant find any close to 250, so gonna do 235x235 bed now,
 so changed BOM and re finalized it. Still gonna keep double z as i want to achieve high quality at faster speeds, so going to try to implement closed loop fixing for realtime z correction and print condition adjustment. Hopefully am able to mk smtg that can print high quality at 500+ speeds. Using cartographer with adxl345 so dont need piezo.
@@ -68,7 +71,7 @@ Time: 4 hrs
 
 ***Total Time: 28 hrs***
 
-# **Day 6**
+## **Day 6**
 
 Alright, now im modelling.
 
@@ -88,7 +91,7 @@ Time: 8 hrs
 
 ***Total Time: 36 hrs***
 
-# **Day 7**
+## **Day 7**
 
 Alright, so i made a proper housing and screw structure for the cooling fans.
 Also added the fasteners to the project.
