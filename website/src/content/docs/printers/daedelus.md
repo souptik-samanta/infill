@@ -15,6 +15,8 @@ Total hours so far: 27.5
 Daedelus was a Greek inventor, builder, and tinkerer, hence the name.  
 I started this project with a coreXY design, but I flew too high, hence the name/designation Daedelus (Icharus) for the first variant.
 
+## Link to CAD: https://a360.co/3XCGgpZ
+
 ## New Design Goals:
 - [ ] Under $300 (USD)
 - [x] 310mm3 Build Volume
