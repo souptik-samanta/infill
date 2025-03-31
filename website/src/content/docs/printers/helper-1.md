@@ -15,7 +15,7 @@ this will be useful for printing 3d printed plane wings etc and big things, thos
 
 # Log :
 
-Total hours so far: 33
+Total hours so far: 38
 
 ### Sunday, march 2nd
 7 hours
@@ -40,3 +40,6 @@ i designed the heated bed pcb
 7 hours
 i continued the pcb and then i did some research to look for other websites where i could get parts for cheaper
 
+### sunday, march 30th
+5 hours
+started the cad and looked for ways to make the bom cheaper, i found some deals 
