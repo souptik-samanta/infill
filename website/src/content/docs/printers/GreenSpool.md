@@ -185,3 +185,16 @@ Recap:
 - Spend more on stepper motors (they're an "investment")![Another screenshot on that same Slack thread about recommending me to get more expensive motors](https://dave9123.me/assets/slack_sPQ925f1mR.png) or not, my life's a joke ![another screenshot explaining that even people run 48V on them, wow](https://dave9123.me/assets/slack_BG14zovtjS.png)
 
 Time spent: ~5 hours
+
+## Day 9 (March 31st 2025)
+
+Got some further ways to save money, make my own Linear Screw Actuator Rail! I found the tutorial video on how it works from [Linear Guide and Lead Screw Actuator - Assembly Instruction - YouTube](https://www.youtube.com/watch?v=jVleaaCOFtQ), looks quite nice too (in money terms).
+
+I currently am getting 8 x 30 cm (for the XY-axis) Aluminium Extrusion 3030 Profile and I'm planning on adding the Z-axis, but I'm still unsure because of the Linear Screw Actuator Rail that is still to be made.
+
+Do I need to get a Magnetic Build Platform or just put glass or both? Having a Magnetic Built Platform might be great as they look nice and might help getting the printed stuff off lol 😜.
+![Magnetic Build Platform on Tokopedia](https://dave9123.me/assets/firefox_a1lep67vy0.png)
+
+Resources:
+- https://www.reddit.com/r/ender3/comments/18gwt6v/glass_or_magnetic_bed/
+- https://www.reddit.com/r/ender5/comments/iw2mc4/glass_bed_or_magnetic_sheet/
