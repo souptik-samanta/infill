@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/Illuminum2/NanoLab/refs/heads/mai
 
 Made by: @Iluminum2  
 Repo link: [https://github.com/Illuminum2/NanoLab](https://github.com/Illuminum2/NanoLab)  
-Total hours so far: 51
+Total hours so far: 51.5
 - [x] I have a 3D printer
 
 ## Idea
@@ -107,3 +107,6 @@ Well I had to do some other stuff today, so I couldn't work on this for as long 
 
 ## Day 17 (Mar 30) 1h
 Had to start working on my Apex proposal as well as study for a test, so not too much progress again, but I got started modeling the motor bracket that is going to hold my steppers, I also need to make sure I keep tolerances in mind with the gears.
+
+## Day 18 (Mar 31) 0.5h
+Another 10h school day, and I also had to study for the test so I was barely able to get anything done, just worked on the motor mounting plate.
