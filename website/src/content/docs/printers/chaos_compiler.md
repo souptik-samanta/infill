@@ -11,3 +11,4 @@ repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/ref
 | 28/3  | 11h   | heatbed and nema 17 |
 | 29/3  | 15h   | CAD  |
 | 30/3  | 5h   | assembly and made the x axis  |
+| 31/3  | 10h   | assembly and made the y axis  |
