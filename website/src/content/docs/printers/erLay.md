@@ -19,7 +19,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 # Total Time
 
 Aaron: 64.5h
-Evan: 22.5h
+Evan: 28.5h
 
 # Feb 12 2025
 
@@ -364,3 +364,9 @@ Aaron: 3h
 
 Added Z-Axis Motor. Way too painful
 ![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ce4d11413c8954bd62e26e882ce9796a30e27996_image.png)
+
+# March 30
+Evan: 6h
+
+Did a bunch of research/video watching, and some chatgpt-ing.
+The MCU will likely pull its voltage from a step-down converter after the diode ORing to keep costs down. I still have my doubts weather this will work or not...
