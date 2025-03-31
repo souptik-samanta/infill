@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/arp2019-Dev/MiniPrintV1/refs/head
 ---
 Made by: @arp // Akhil Pathapati
 Repository link: https://github.com/arp2019-Dev/MiniPrintV1
-Total hours so far: 45
+Total hours so far: 50
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -49,4 +49,9 @@ The printer is almost complete and actually finalized this time lol. I am not do
 Update 11:
 I'm done with my printer, 150mm cubed, ldo extruder, bedslinger with silent drivers and bl touch. Now it's time to order parts if I get approved and start building.
 <img width="648" alt="Screenshot 2025-03-27 at 9 05 56 PM" src="https://github.com/user-attachments/assets/d7d35b83-4520-407e-ab75-eb16d3c5fb67" />
+
+Update 12:
+Complete redesign, new y axis and fixed all my gantrys and belts also I upgraded to a 180mm cubed build volume. Also the fottprint is a new shape and smaller.
+<img width="597" alt="Screenshot 2025-03-30 at 8 59 27 PM" src="https://github.com/user-attachments/assets/ce786950-bbf4-4e20-9b2b-2fa979b8a0ea" />
+
 
