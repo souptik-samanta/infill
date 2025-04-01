@@ -19,7 +19,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 # Total Time
 
 Aaron: 64.5h
-Evan: 28.5h
+Evan: 32h
 
 # Feb 12 2025
 
@@ -370,3 +370,8 @@ Evan: 6h
 
 Did a bunch of research/video watching, and some chatgpt-ing.
 The MCU will likely pull its voltage from a step-down converter after the diode ORing to keep costs down. I still have my doubts weather this will work or not...
+
+# March 31
+Evan: 3.5h
+
+The PD controllers are complete, now I need to figure out how to load balance and combine the inputs. Right now i'm trying to find the perfect buck/boost VRM that's cheap enough to get 4 of.
